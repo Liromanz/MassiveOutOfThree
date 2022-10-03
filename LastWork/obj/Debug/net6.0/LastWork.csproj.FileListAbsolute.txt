@@ -1,0 +1,15 @@
+C:\Users\kiss_\source\repos\LastWork\LastWork\bin\Debug\net6.0\LastWork.exe
+C:\Users\kiss_\source\repos\LastWork\LastWork\bin\Debug\net6.0\LastWork.deps.json
+C:\Users\kiss_\source\repos\LastWork\LastWork\bin\Debug\net6.0\LastWork.runtimeconfig.json
+C:\Users\kiss_\source\repos\LastWork\LastWork\bin\Debug\net6.0\LastWork.dll
+C:\Users\kiss_\source\repos\LastWork\LastWork\bin\Debug\net6.0\LastWork.pdb
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.csproj.AssemblyReference.cache
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.AssemblyInfoInputs.cache
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.AssemblyInfo.cs
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.dll
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\refint\LastWork.dll
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.pdb
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\LastWork.genruntimeconfig.cache
+C:\Users\kiss_\source\repos\LastWork\LastWork\obj\Debug\net6.0\ref\LastWork.dll
